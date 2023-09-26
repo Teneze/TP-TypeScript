@@ -1,7 +1,7 @@
 <div>
   <p>
     <img 
-        src="logo.png"
+        src="logoReadme/typescript.png"
         alt="TypeScriptLogo"
         width="100px"
         height="100px"
