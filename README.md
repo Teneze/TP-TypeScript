@@ -28,5 +28,5 @@ Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript"
 6- Ejecute la clase 
 
 ## Realizado por
-[Ezquiel Tenerini](https://github.com/Teneze)
+[Ezequiel Tenerini](https://github.com/Teneze)
 
