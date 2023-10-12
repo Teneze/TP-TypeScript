@@ -9,7 +9,7 @@
   </p>
 </div>
 
-# Trabajo Practico TypeScript
+# Trabajo Practico - TypeScript
 
 Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript"
 
@@ -23,10 +23,9 @@ Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript"
 
 4- Descomprima el archivo
 
-5- Abra el proyecto en Intellij IDEA o ejecute el "index.html"
+5- Abra el proyecto en Visual Studio Code y ejecute el archivo "index.html"
 
 6- Ejecute la clase 
 
 ## Realizado por
 [Ezequiel Tenerini](https://github.com/Teneze)
-
